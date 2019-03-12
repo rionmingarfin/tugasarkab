@@ -5,6 +5,8 @@ Software yang digunakan yaitu
 1.	Crome
 2.	Xampp
 3.	Visual studio code
+
+
 Cara menjalankan software ini yaitu dengan cara :
 1.	Download file project saya.
 2.	Hidupkan xampp,ckup star apache dan mysql 
